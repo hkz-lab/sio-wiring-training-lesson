@@ -15,4 +15,11 @@
     "url": "",
     "buttonText": "Details"
   }
+  "training": {
+  "enabled": true,
+  "label": "Training Login (Today only)",
+  "expiresAt": "2026-02-20T23:59:59+07:00",
+  "message": "Training login is available today only.",
+  "allowedOfflineHours": 6
+ }
 }
